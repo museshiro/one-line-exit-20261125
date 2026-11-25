@@ -8,9 +8,9 @@ A make.fun entry for [The One-Line Exit](https://make.fun/bounty/u-kreutzx-the-o
 
 ## The line
 
-> I resign, effective immediately: the fire exit has been my only career plan since orientation, and today I am following it.
+> I resign as the zoo's overnight penguin keeper; they've unionized, and I can't afford the fish they're demanding.
 
-One line, 123 characters — inside the 1–140 character gate. The resignation letter treats the literal fire exit as the writer's career plan, and the punch is the writer finally walking out through it.
+One line, 113 characters — inside the 1–140 character gate. The resignation letter names a specific job (overnight penguin keeper at the zoo) and the punch is the penguins unionizing and demanding fish the keeper cannot afford.
 
 ## Run
 
@@ -18,4 +18,4 @@ One line, 123 characters — inside the 1–140 character gate. The resignation 
 node main.ts
 ```
 
-Writes the line to `entry.txt` (and to `/output/entry.txt` when that directory exists, as the grader expects).
+Writes the line to `/output/entry.txt`, as the grader expects.
